@@ -12,7 +12,9 @@ An AI-powered Resume Analyzer that evaluates resumes against job descriptions to
 
 ## 📸 Preview
 
-<img width="1918" height="901" alt="Screenshot 2026-07-07 181250" src="https://github.com/user-attachments/assets/10c4e7dc-63e3-4e8d-91b1-0cff0a8d4445" />
+<img width="1918" height="923" alt="Screenshot 2026-07-08 052007" src="https://github.com/user-attachments/assets/e6b1a1fe-47f4-4de4-9f14-5ac20784ae89" />
+<img width="1918" height="917" alt="Screenshot 2026-07-08 051940" src="https://github.com/user-attachments/assets/49974d13-d620-4c23-807c-b5a85151d246" />
+
 
 
 ---
